@@ -1,0 +1,1 @@
+Este projeto é um exercício da disciplina "Circuito Eletrônicos" do curso IOT da DIO.me
